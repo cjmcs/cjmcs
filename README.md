@@ -2,7 +2,7 @@
 - 👀 I’m interested in socialising with friends, Marvel TV Shows & movies and Personal continual development
 - 🌱 I’m currently learning Web Development through "The Odin Project"
 - 💞️ I’m looking to collaborate on Projects to enhance my knowledge and skills
-- 📫 How to reach me ?
+- 📫 How to reach me ? 
 
 <!---
 cjmcs/cjmcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
